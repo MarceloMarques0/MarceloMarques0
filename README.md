@@ -1,4 +1,4 @@
-Olá! Eu sou o Marcelo 😎
+Olá! Eu sou o Marcelo 🐱‍👤
 
 - 🌱 No momento aprendendo React
 
